@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.red{
+    background:rgb(255, 0, 0);
+    border-radius: 7px;
+    color: white;
+}
+.blue{
+    background:rgb(59, 59, 255);
+    border-radius: 7px;
+    color: white;
+}
+.lblue{
+    background:rgb(196, 196, 253);
+    border-radius: 7px;
+}
+.lred{
+    background:rgb(255, 192, 192);
+    border-radius: 7px;
+}
+.lgred{
+    background:rgb(250, 217, 217);
+    border-radius: 7px;
+}
+td{
+    text-align: center;
+    padding: 9px;
+}
+.bold{
+    font-weight: 700;
+    font-size: 1.2rem;
+}
